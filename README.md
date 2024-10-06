@@ -12,8 +12,7 @@ A brief description of your project, highlighting its purpose and main features.
 - [Acknowledgments](#acknowledgments)
 
 ## Introduction
-
-Provide an overview of your project. Explain what it does, why it exists, and any important context that users should know.
+- Hello world project 
 
 ## Installation
 
